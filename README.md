@@ -24,28 +24,6 @@ A computer that runs on either of the following; (Windows 7+, Linux, Mac OS) nod
 # Instalation
 To use this repo on your machine requires some simple steps
 
-## Alternative One
-Open a terminal / command line interface on your computer
-
-Clone the repo by using the following:
-
-git clone:
-
-  git@github.com:Darylcosm0/project-code-challenge-3.git
-  
-  
-  Be patient as it creates a copy on your local machine for you.
-- Change directory to the repo folder
-  
-  cd project-code-challenge-3
-  
-  (Optional) Open it in Visual Studio Code
-
-    code .
-
-(Alternate Option) Open it in any editor of your choice.
-
-Hurray! You are one step closer to being as intelligent as Einstein.
 
 # Running the application
 To run the application, you can use the following steps to run the app.
@@ -77,6 +55,6 @@ https://darylcosm0.github.io/project-code-challenge-3/db.json
 - Daryl
 
 # License
-- This project is licensed by 'ISC'
+- This project is licensed by 'MIT'
     .
 
